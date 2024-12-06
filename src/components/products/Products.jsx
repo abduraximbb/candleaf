@@ -38,7 +38,7 @@ const Products = ({ data }) => {
         </button>
       </div>
       <div className="px-5 flex flex-col justify-evenly min-h-[75px]">
-        <h3 className="text-start tracking-tighter overflow-hidden whitespace-nowrap hover:text-[#0078d4]">
+        <h3 className="text-start tracking-tighter overflow-hidden whitespace-nowrap hover:text-[#56B280]">
           {product.title}
         </h3>
         <p className="text-[#56B280] text-right leading-5 hover:text-[#34a853]">
